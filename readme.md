@@ -63,9 +63,3 @@ If you want to run the tests inside the container;
 ```bash
 docker-compose exec api pytest tests -sv
 ```
-
-
-# Sources
-* [DataAPI](https://github.com/naciyuksel/DataAPI)
-* [Fast Autocomplete Search for Your Website](https://github.com/simonw/24ways-datasette)
-* [Elastic.co](https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-lang-analyzer.html#turkish-analyzer)
